@@ -1,4 +1,4 @@
-package mahasiswa.kerkomoop;
+package soloWork;
 
 import java.util.Scanner;
 public class StatementOperatorTernaryAndSelection {
