@@ -2,28 +2,20 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package modul5;
+package tugasPerbaikanKode;
 
 /**
  *
  * @author Lenovo
  */
-public class ProgramSalah3 {
+public class ProgramSalah2 {
     public static void main(String[] args){
         int x = 5;
-        int y = 10;
-        
-        if(x<y){
-            System.out.println("X lebih kecil dari Y");
+        if (x>0){
+            System.out.println("Angka Positif");
         }
         else{
-            System.out.println("X lebih besar dari Y");
-        }
-        
-        int z = x+y;
-        
-        for (int i = 0; i <= z; i++){
-            System.out.print(i+" ");
+            System.out.println("Angka Negatif");
         }
     }
 }
