@@ -1,4 +1,4 @@
-package soloWork;
+package hasanSaefulRohman;
 
 import java.util.Scanner;
 public class OperatorTernaryAndSelection {
